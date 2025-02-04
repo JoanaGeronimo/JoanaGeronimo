@@ -5,7 +5,7 @@
 🤖 Aprofundando meus conhecimentos em Inteligência Artificial e Machine Learning  
 🌱 Estudando tecnologias como Java, JavaScript, React, Python e mais  
 🎯 Busco projetos colaborativos que me ajudem a crescer como profissional  
-✉️ Contate-me no email: joanageronimo@gmail.com  
+✉️ Contate-me no email: joanageronimo44@gmail.com  
 😊 Pronouns: ela/dela  
 
 ---
