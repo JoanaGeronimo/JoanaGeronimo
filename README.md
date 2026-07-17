@@ -1,9 +1,9 @@
 # Olá! Eu sou a Joana Geronimo 👋
 
 👩‍💻 Desenvolvedora Full Stack  
-🎓 Cursando Ciência da Computação no Instituto Federal de Presidente Epitácio  
+🎓 Formada em Ciência da Computação no Instituto Federal de Presidente Epitácio  
 🤖 Aprofundando meus conhecimentos em Inteligência Artificial e Machine Learning  
-🌱 Estudando tecnologias como Java, JavaScript, React, Python e mais  
+🌱 Conhecimento em tecnologias como Java, JavaScript, React, Python e mais  
 🎯 Busco projetos colaborativos que me ajudem a crescer como profissional  
 ✉️ Contate-me no email: joanageronimo44@gmail.com  
 😊 Pronouns: ela/dela  
